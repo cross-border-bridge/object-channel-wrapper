@@ -7,7 +7,7 @@
 ### package.json
 ```
     "dependencies": {
-        "@cross-border-bridge/object-channel-wrapper": "~2.0.0"
+        "@cross-border-bridge/object-channel-wrapper": "~2.1.0"
     },
 ```
 
